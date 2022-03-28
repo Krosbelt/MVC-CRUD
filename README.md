@@ -17,7 +17,7 @@ Desarrollar una aplicación "CRUD" Web en PHP que permita pedir cita a los desar
 <br>
 ☕  CSS and Bootstrap 5
 
-⚙️ Deploy available:
+⚙️ Deploy available: http://mvcphp.infinityfreeapp.com/MVC-CRUD/index.php?c=Persona
 
 
 <h3>Landing Page</h3>
