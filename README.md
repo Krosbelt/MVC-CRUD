@@ -26,9 +26,9 @@ Desarrollar una aplicación "CRUD" Web en PHP que permita pedir cita a los desar
 
 <h3>Add Appoitnment</h3>
 <hr>
-<img src="https://github.com/Krosbelt/MVC-CRUD/blob/main/assets/img/2.png" min-width="400px" max-width="400px" width="400px">
+<img src="https://github.com/Krosbelt/MVC-CRUD/blob/main/assets/img/2.png" min-width="400px" max-width="1000px" width="700px">
 
 <h3>Administrator view</h3>
 <hr>
-<img src="https://github.com/Krosbelt/MVC-CRUD/blob/main/assets/img/3.png" min-width="400px" max-width="400px" width="400px">
+<img src="https://github.com/Krosbelt/MVC-CRUD/blob/main/assets/img/3.png" min-width="400px" max-width="1000px" width="700px">
 
