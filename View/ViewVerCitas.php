@@ -31,7 +31,7 @@
                     <th>Subject</th>
                     <th>Date</th>
                     <th>Time</th>
-                    <th></th>
+                    <th>Time Scheduled</th>
                 </tr>
             </thead>
             <tbody>
